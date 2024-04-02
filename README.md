@@ -1,6 +1,6 @@
 ## Walmart Retail Data Analysis
 
-![Banner Image]()
+![Banner Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RPVwrRPkiOq7jLVa8XJks4IrvIXS-fbyyA&s)
 
 This repository contains data analysis projects focused on exploring and analyzing retail data from Walmart. The analysis aims to derive insights and make informed decisions to enhance business operations, optimize processes, and improve overall performance.
 
